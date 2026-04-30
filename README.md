@@ -18,7 +18,7 @@ This project solves two key problems:
 2. **Detecting scam messages** using Natural Language Processing (NLP)
 
 
-## Our Project is trying to target:
+## Target:
 
 * Everyday users receiving suspicious messages
 * Consumer protection organizations
@@ -41,13 +41,13 @@ This project integrates multiple datasets into a single cleaned dataset:
 * Message text labeled as spam or not spam
 
 
-## Our Future Analysis will include...
+## Future Analysis will include...
 
 * Time series analysis of scam trends
 * Clustering emerging scam types
 * Feature engineering (URL patterns, message length, keywords)
 
-## This Matters to us because...
+## This Matters because...
 
 Scam detection is a real-world problem affecting millions of people. This project goes beyond a simple assignment by building a system that could realistically help users identify and avoid scams.
 
